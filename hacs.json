@@ -1,5 +1,9 @@
 {
   "name": "MicroPIC Energy Meter",
+  "domain": "micropic_energy_meter",
+  "documentation": "https://github.com/nocturno66/MicroPIC_Energy_Meter",
+  "repository": "https://github.com/nocturno66/MicroPIC_Energy_Meter",
+  "issue_tracker": "https://github.com/nocturno66/MicroPIC_Energy_Meter/issues",
   "country": "ES",
   "homeassistant": "2023.7.0",
   "render_readme": true
